@@ -1,0 +1,10 @@
+cd /d E:\Desktop\CLASS\VI\DL\Project
+
+@"
+archive/
+.gradio/
+__pycache__/
+*.pyc
+.venv/
+env/
+"@ | Set-Content .gitignoremodels/
